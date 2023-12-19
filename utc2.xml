@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://www.MyCakeShop.com/news.xml" rel="self" type="application/rss+xml" />
+    <title>My Cake Shop news</title>
+    <link>http://www.MyCakeShop.com/news.xml</link>
+    <description>The latest news from My Cake Shop</description>
+    <copyright>Copyright My Cake Shop 2016 All rights reserved</copyright>
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <lastBuildDate>Fri, 21 Oct 2016 11:04:28 GMT</lastBuildDate>
+    <item>
+      <title>New scary Halloween donuts oozing with goo</title>
+      <description>Really tasty green, red and blue donuts until the 31st.  Get yours before they vanish</description>
+      <link>http://www.MyCakeShop.com/Halloween.html</link>
+      <guid isPermaLink="false">c154d69419534702a0574f106f62655d</guid>
+      <pubDate>Fri, 21 Oct 2016 10:44:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Independence Day muffins</title>
+      <description>Limited edition 4th of July special muffins in store now.  Hurry, before they are all gone</description>
+      <link>http://www.MyCakeShop.com/Muffins.html</link>
+      <guid isPermaLink="false">174e518a5cf54662999605c3e76c5518</guid>
+      <pubDate>Fri, 01 July 2016 11:04:05 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
